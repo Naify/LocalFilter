@@ -1,0 +1,11 @@
+Makefile
+*.pro.user
+*.pro.user.*
+*.so*
+*.autosave
+*.qmake.stash
+ui_*
+*.deb
+build/*
+lib/*
+build_deb_and_copy.sh

@@ -1,0 +1,8 @@
+Package: LocalFilter
+Version: 1.0.0
+Provides: LocalFilter
+Maintainer: naify
+Architecture: amd64
+Section: utils
+Description: LocalFilter Library
+Depends: ods-interface, irs, qjson, metamanager
